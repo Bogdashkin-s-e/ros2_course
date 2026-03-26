@@ -1,0 +1,4 @@
+string sensor_name
+float64 temperature
+int32 reading_id
+bool is_active
